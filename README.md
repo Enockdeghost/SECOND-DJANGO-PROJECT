@@ -19,26 +19,3 @@ A lightweight authentication system built with Django, featuring user registrati
 
 ## Installation
 
-auth_project/
-├── auth_project/          # Project settings
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── accounts/              # Main app
-│   ├── migrations/
-│   ├── templates/
-│   │   ├── base.html
-│   │   ├── home.html
-│   │   └── registration/
-│   │       ├── login.html
-│   │       └── register.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── manage.py
-└── README.md
